@@ -37,9 +37,9 @@
 
 ## 📦 Note for Cloning This Repository
 
-This repository uses **Git LFS**.  
-If you clone it, make sure Git LFS is installed:
+- This is very very very early app used for final so there will be alot of bugs and un-optimize stuff, but will be path later on, hopefully.
+- If you are a student doing the same project or remotly close to mine, feel free to share im very want to help. (˶ˆᗜˆ˵)
 
-```bash
-git lfs install
-git clone https://github.com/PizzaforPaw/Dictionary-App-H-n-N-m-.git
+- ୧ ‧₊˚ 🍮 ⋅ ☆
+
+
