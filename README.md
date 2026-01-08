@@ -1,19 +1,22 @@
 
 # Dictionary App Hán–Nôm
 
-This repository contains data and source materials for a **Hán–Nôm Dictionary App** project.
+
 
 ---
 
 ## 📁 Data Files
 
-Please see the following folder for all dictionary source files:
+- There will be 3 file: The original book aka.data source, if you can extract more data pls let me know.
+- An excel file: the already verify and extracted file, not fully done but enought data for the app (˶ᵔ ᵕ ᵔ˶).
+- JSON file: file that convert form the excel file using an python script. (will clean upload later, hope so ...).
 
+# Indept explaination for some of the datafile
 
 ### 📄 PDF File
 - **VN - TD Dai Nam Quoc Am Tu Vi - HTC.pdf**
 - This is the main reference dictionary document.
-- Due to its large size, it is stored using **Git Large File Storage (Git LFS)**.
+
 
 👉 You can view the PDF by:
 - Clicking the file on GitHub, or
